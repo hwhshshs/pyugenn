@@ -7,7 +7,7 @@
 </head>
 <body>
     <header>
-        <h1>My Laravel App</h1>
+        <h1>My Laravel Appsss</h1>
     </header>
     <main>
         @yield('content')
